@@ -7,14 +7,7 @@ Thank you for stopping by! Here's a bit about me:
 - 📫 Available all over the internet as @sxddhxrthx.
 - ⚡ Fun fact: I am tons of innovative ideas to implement and almost never implement them 
 
-<!--
-**sxddhxrthx/sxddhxrthx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
--->
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=sxddhxrthx&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sxddhxrthx&theme=dracula&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sxddhxrthx)
