@@ -3,7 +3,7 @@ Thank you for stopping by! Here's a bit about me:
 
 - 🔭 I’m a DevOps Engineer and Data Science enthusiast.
 - 📝 I’m currently learning Kubernetes and alongside preparing for CKAD.
-- 🤔 I’m alaways eager to learn more about Data Structures & Algos and Design Patterns in Python.
+- 🤔 I’m always eager to learn more about Data Structures & Algos and Design Patterns in Python.
 - 📫 Available all over the internet as @sxddhxrthx.
 - ⚡ Fun fact: I have tons of innovative ideas to implement and almost never implement them.
 
